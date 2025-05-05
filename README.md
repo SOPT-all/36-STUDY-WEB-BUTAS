@@ -1,0 +1,2 @@
+# 36-STUDY-WEB-BUTAS
+AT SOPT 36기 타입스크립트 스터디
